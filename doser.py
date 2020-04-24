@@ -1,4 +1,3 @@
-import colorama
 import threading
 import requests
 
