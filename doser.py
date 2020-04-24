@@ -1,4 +1,4 @@
-mport colorama
+import colorama
 import threading
 import requests
 
